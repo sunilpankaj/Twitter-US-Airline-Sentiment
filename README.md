@@ -5,3 +5,4 @@
 2. worldmap.R : worldmap(worldmap.png) and statemap(statemap.png) using ggplot and maps lib.
 3. cleaning and prediction.ipynb : Cleaning data using nltk and machine learning algorithms. 
 
+Download dataset from here: https://www.kaggle.com/crowdflower/twitter-airline-sentiment
