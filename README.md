@@ -1,6 +1,6 @@
 # Twitter USA Airline Sentiment Analysis and Classification System.
 
-See this (https://github.com/sunilpankaj/Text-analysis-and-classification-using-deep-learning)if interest in deep learning methods for text classfication.
+See this (https://github.com/sunilpankaj/Text-analysis-and-classification-using-deep-learning) if interest in deep learning methods for text classfication.
 What each file contains:
 1. Twitter US Airline Sentimental Analysis.ipynb : Sentimental analysis, plotting(pie chart, bar plot, wordcloud etc.)
 2. worldmap.R : worldmap(worldmap.png)
